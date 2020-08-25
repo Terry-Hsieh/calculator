@@ -41,5 +41,10 @@ indexof 如果裡面沒有 . 就會回傳-1 為了不要太多點
 ${}會等於串聯,- + this current
 === 嚴格相等 this.current.charAt(0) === '-' 就做接下來的事
 
+.mymouse{ #滑鼠樣式
+  cursor: help;
+}
+
+
 ```
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
